@@ -1,0 +1,2 @@
+# CupOfCoffee
+My Ruby project
